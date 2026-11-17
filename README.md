@@ -1,3 +1,3 @@
 ## English quiz
 
-- [Demo]([https://nextjs.org/docs](https://english-two-liart.vercel.app/)
+- [Demo](https://english-two-liart.vercel.app/)
